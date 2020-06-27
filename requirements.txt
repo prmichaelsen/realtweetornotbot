@@ -1,4 +1,4 @@
-backcall==0.1.0
+azure-functionbackcall==0.1.0
 bleach==3.1.4
 certifi==2018.4.16
 chardet==3.0.4
@@ -75,4 +75,4 @@ update-checker==0.16
 urllib3>=1.24.2
 wcwidth==0.1.7
 webencodings==0.5.1
-widgetsnbextension==3.4.2
+widgetsnbextension==3.4.2s 
